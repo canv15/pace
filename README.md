@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fpace.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fpace?ref=badge_shield)
+
 Disclaimer, We no longer use this library internally and are focusing our efforts on open sourcing and maintaining projects that we do use and can meaningfully contribute to. Sorry for any frustrations with this project (we're happy to link to any fork that has an excited, commited maintainer).
 
 pace
@@ -25,3 +27,7 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
   <link href="/pace/themes/pace-theme-barber-shop.css" rel="stylesheet" />
 </head>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fpace.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fpace?ref=badge_large)
